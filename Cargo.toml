@@ -1,0 +1,10 @@
+[package]
+name = "http-server-from-scratch"
+version = "0.1.0"
+authors = ["Yasuaki Uechi <y@uechi.io>"]
+edition = "2018"
+license = "apache-2.0"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
